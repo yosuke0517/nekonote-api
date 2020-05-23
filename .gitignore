@@ -1,0 +1,14 @@
+go.sum
+
+# env
+.env
+
+/.idea
+
+/tmp
+
+/bin
+
+/pkg
+
+/src
